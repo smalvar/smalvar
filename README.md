@@ -1,10 +1,10 @@
 ###  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Sara MAlvar and I'm a machine learning engineer with a PhD. I'm from Brazil, currently doing research at the Research Center for Gas Innovation and mentoring/code reviewing/teaching at Udacity, Awari and Alura.
+My name is Sara Malvar and I'm a machine learning engineer with a PhD. I'm from Brazil, currently doing research at the Research Center for Gas Innovation and mentoring/code reviewing/teaching at Udacity, Awari and Alura.
 <!--
 **smalvar/smalvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 Here are some ideas to get you started:
 
