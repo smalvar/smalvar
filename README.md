@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saramalvar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/saramalvar/" height="30" width="40" /></a>
+  <a href="https://github.com/smalvar" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" alt="https://github.com/smalvar" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smalvar&show_icons=true&locale=en&layout=compact" alt="smalvar" /></p>
