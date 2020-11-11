@@ -1,5 +1,6 @@
-<h1 align="center">Hello, folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-, I'm Sara Malvar</h1>
+<h2 align="center">Hello, folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h2>
+<h3 align="center">I'm Sara Malvar</h2>
 <h5 align="center">Machine learning engineer and PhD in engineering</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smalvar&label=Profile%20views&color=0e75b6&style=flat" alt="smalvar" /> </p>
 
