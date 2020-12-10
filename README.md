@@ -6,7 +6,7 @@
 -->
 
 
-- 🔭 I’m currently working on the **Research Center for Gas Innovation**
+- 🔭 I’m currently working on the **Research Centre for Gas Innovation**
 
 - 🌱 I’m currently teaching/mentoring/code reviewing for **Udacity, Alura and Awari**
 
