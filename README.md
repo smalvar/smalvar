@@ -19,7 +19,7 @@
       <a href="mailto:malvar.sara@usp.br?subject=Github" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/561/561188.svg" alt="mailto:malvar.sara@usp.br?subject=Github" height="30" width="40" /></a>
 </p>
 <a href="https://www.codementor.io/@malvarsara896?refer=badge"><img src="https://www.codementor.io/m-badges/malvarsara896/book-session.svg" alt="Codementor badge"></a></p>
-<a href="https://mentorcruise.com/mentor/SaraMalvar/"> <img src="https://cdn.mentorcruise.com/img/banner/book-me-as-your-mentor-dark.jpg" width="240" alt="MentorCruise"> </a>
+<a href="https://mentorcruise.com/mentor/SaraMalvar/"> <img src="https://cdn.mentorcruise.com/img/banner/book-me-as-your-mentor.jpg" width="240" alt="MentorCruise"> </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smalvar&show_icons=true&locale=en&layout=compact" alt="smalvar" /></p>
 
