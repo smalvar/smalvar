@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on the **Research Centre for Gas Innovation**
 
-- 🌱 I’m currently teaching/mentoring/code reviewing for **Udacity, Alura and Awari**
+- 🌱 I’m currently teaching/mentoring/code reviewing for **Udacity, Data Science Dojo, Alura and Awari**
 
 
 <h5 align="left">Connect with me:</h5>
