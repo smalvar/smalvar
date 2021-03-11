@@ -19,10 +19,5 @@
       <a href="mailto:malvar.sara@usp.br?subject=Github" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/561/561188.svg" alt="mailto:malvar.sara@usp.br?subject=Github" height="30" width="40" /></a>
     <a href="https://calendly.com/saramalvar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Simpleicons_Business_calendar-with-a-clock-time-tools.svg" alt="https://calendly.com/saramalvar/" height="38" width="38" /></a>
 </p>
+<a href="https://mentorcruise.com/mentor/SaraMalvar/"> <img src="https://cdn.mentorcruise.com/img/banner/become-my-mentee.jpg" width="240" alt="MentorCruise"> </a> 
 
-<a href="https://mentorcruise.com/mentor/SaraMalvar/"> <img src="https://cdn.mentorcruise.com/img/banner/book-me-as-your-mentor-dark.jpg" width="240" alt="MentorCruise"> </a> 
-
-<!-- Start of Meetings Embed Script -->
-    <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/malvar-sara?embed=true"></div>
-    <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script>
-  <!-- End of Meetings Embed Script -->
