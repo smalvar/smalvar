@@ -6,7 +6,7 @@
 -->
 
 
-- 🔭 I’m currently working on the **Research Centre for Gas Innovation**
+- 🔭 I’m currently working as ML Research Software Development Engineer at **Microsoft Research**
 
 - 🌱 I’m currently teaching/mentoring/code reviewing for **Udacity, Data Science Dojo, Alura and Awari**
 
