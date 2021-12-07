@@ -11,10 +11,8 @@
 - 🌱 I’m currently teaching/mentoring/code reviewing for **Udacity, Data Science Dojo, Alura and Awari**
 
 
-<h5 align="left">Connect with me on <a href="https://www.linkedin.com/in/saramalvar/" target="blank">LinkedIn</h5>
+<h5 align="left">Connect with me on <a href="https://www.linkedin.com/in/saramalvar/" target="blank">LinkedIn</h5> or  <a href="https://mentorcruise.com/mentor/SaraMalvar/" target="blank">become my mentee</h5>
 <p align="left">
 
 
 </p>
-<a href="https://mentorcruise.com/mentor/SaraMalvar/"> <img src="https://cdn.mentorcruise.com/img/banner/become-my-mentee.jpg" width="240" alt="MentorCruise"> </a> 
-
