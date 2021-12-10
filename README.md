@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as ML Research Software Development Engineer at **Microsoft Research**
 
-- 🌱 I’m currently teaching/mentoring/code reviewing for **Udacity, Data Science Dojo, Alura and Awari**
+- 🌱 I’m currently teaching at **Data Science Dojo**
 
 
 <h5 align="left">Connect with me on <a href="https://www.linkedin.com/in/saramalvar/" target="blank">LinkedIn</a> or <a href="https://mentorcruise.com/mentor/SaraMalvar/" target="blank">become my mentee</h5> </h5> 
