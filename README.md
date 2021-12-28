@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working as ML Research Software Development Engineer at **Microsoft Research**
 
-- 🌱 I’m currently teaching at **Data Science Dojo**
+- 🌱 I’m currently teaching at **Data Science Dojo** and **Ultima School**
 
 
-<h5 align="left">Connect with me on <a href="https://www.linkedin.com/in/saramalvar/" target="blank">LinkedIn</a> or <a href="https://mentorcruise.com/mentor/SaraMalvar/" target="blank">become my mentee</h5> </h5> 
+<h5 align="left">Connect with me and <a href="https://mentorcruise.com/mentor/SaraMalvar/" target="blank">become my mentee</h5> </h5> 
 
 <p align="left">
-  💌  Entre em contato agora: ⤵️
+  Contact:⤵️
 </p>
 
 <p align="left">
