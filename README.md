@@ -11,7 +11,7 @@
 - 🌱 I’m currently teaching at **Data Science Dojo** and **Ultima School**
 
 
-<h5 align="left">Connect with me and <a href="https://mentorcruise.com/mentor/SaraMalvar/" target="blank">become my mentee</h5> </h5> 
+<h5 align="left">Connect with me and <a href="https://mentorcruise.com/mentor/SaraMalvar/" target="blank">become my mentee </a></h5> </h5> 
 
 <p align="left">
   Contact:⤵️
