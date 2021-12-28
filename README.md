@@ -28,10 +28,9 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
   <a href="https://smalvar.github.io/" alt="Webpage">
-  <img src="https://img.shields.io/badge/-Webpage-DF0174?style=flat-square&labelColor=007474&logo=github&logoColor=white&link=https://smalvar.github.io/"/></a>
+  <img src="https://img.shields.io/badge/-Portfolio-DF0174?style=flat-square&labelColor=DF0174&logo=github&logoColor=white&link=https://smalvar.github.io/"/></a>
 
-  <a href="https://www.instagram.com/xpedrofelix/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <a href="https://www.microsoft.com/en-us/research/people/saramalvar/" alt="Microsoft Research">
+  <img src="https://img.shields.io/badge/-Webpage-007474?style=flat-square&labelColor=007474&logo=microsoft&logoColor=white&link=https://www.microsoft.com/en-us/research/people/saramalvar/"/></a>
 </p>  
-
 
