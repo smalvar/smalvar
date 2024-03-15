@@ -1,5 +1,4 @@
 <h3 align="center">Hello, I'm Sara Malvar</h2>
-<h5 align="center">Machine learning engineer and PhD in engineering</h5>
 
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smalvar&label=Profile%20views&color=0e75b6&style=flat" alt="smalvar" /> </p>
