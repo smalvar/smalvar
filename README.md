@@ -8,10 +8,6 @@
 
 - 🔭 I’m currently working as ML Research Software Development Engineer at **Microsoft Research**
 
-- 🌱 I’m currently teaching at **Data Science Dojo** and **Ultima School**
-
-
-<h5 align="left">Connect with me and <a href="https://mentorcruise.com/mentor/SaraMalvar/" target="blank">become my mentee </a></h5> </h5> 
 
 <p align="left">
   Contact:⤵️
@@ -26,9 +22,6 @@
 
   <a href="https://api.whatsapp.com/send?phone=5561981156756&text=Ol%C3%A1" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="https://smalvar.github.io/" alt="Webpage">
-  <img src="https://img.shields.io/badge/-Portfolio-DF0174?style=flat-square&labelColor=DF0174&logo=github&logoColor=white&link=https://smalvar.github.io/"/></a>
 
   <a href="https://www.microsoft.com/en-us/research/people/saramalvar/" alt="Microsoft Research">
   <img src="https://img.shields.io/badge/-Webpage-007474?style=flat-square&labelColor=007474&logo=microsoft&logoColor=white&link=https://www.microsoft.com/en-us/research/people/saramalvar/"/></a>
